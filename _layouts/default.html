@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    {% include navigation.html %}
+    {{ content }} <!-- content is a special variable that returns the rendered content of the page on which its called.-->
+    <p> You are on this current page => {{ page.title }}</p>
+</body>
+</html>
