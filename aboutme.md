@@ -20,3 +20,7 @@ If in the .md file there is an empty line between paragraphs it does the same wh
 Thanks for visiting! Love ya!
 
 **Ps:** It looks like I forgot the actual *"About Me"* stuff haha! My name is Jacob Child. I am a senior Mechanical Engineering student at Brigham Young University with huge desire to use engineering to change the world for good. I love people and I love sunsets and I love smiling, and most of all I love Jesus!
+
+Here are a few **Quotes** I like and that inspire me to create, build, and be an engineer: <br>
+- "And the Lord said: Go to work and build..." [Ether 2:16](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/2?lang=eng)
+- "God gives to man the challenge of raw materials, not the ease of finished things. He leaves the pictures unpainted and the music unsung and the problems unsolved, that man might know the joys and glories of creation." [Thomas S. Monson](https://www.churchofjesuschrist.org/study/ensign/1988/03/in-quest-of-the-abundant-life?lang=eng)
