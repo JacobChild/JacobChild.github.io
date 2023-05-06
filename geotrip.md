@@ -19,15 +19,47 @@ Arriving in Panama was pretty cool, I have some GoPro videos of it (the GoPro wa
 
 # Day 2 Panama Tourist Stuff: Panama Canal, Food
 
+- Cool engineering! **Add more later!**
+
 # Day 2 Travel: Panama -> Colombia -> Bolivia -> Immigration! -> La Paz, Bolivia
+
+- Colombia sunset was amazing
+
+- Chinese people on the plane to Bolivia, so fun!!!
+
+- Immigration ahhh!
+
+- At hotel and going to bed a little before 6am
 
 
 
 # Day 3 Bolivia Rest & Tourist Stuff: Sleep, Lunch, Witches' Market, Gondola, Grocery Store, Mall (Dinner)
 
+- Crazy tired, so slept until 12ish, did some scriptures and fell asleep again until 1:30ish, felt amazing
+
+- Lunch at coffee shop, something Milanesa?
+
+- Witches' market textile shopping, super cool shop owner, her grandpa started, and family makes everything shop 884 I think **verify this!**
+
+- Bolivian friend took us on Gondola tour, super beautiful!
+  
+  - He took us to a mall for dinner good food, started with a "p"  like a shishkabob (no clue how to spell that)
+
 
 
 # Day 4 Bolivia Work: PROINPA in Viacha
+
+- Bus ride
+
+- Working
+
+- Harvesting Quinoa!!!
+
+- Working
+
+- Long bus ride home, traffic and backup experience
+
+- Amazing dinner at a place called Dumbo's 
 
 
 
